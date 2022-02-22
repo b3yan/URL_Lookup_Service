@@ -5,7 +5,7 @@
 ```
 CREATE TABLE url_table(
     url VARCHAR(512) PRIMARY KEY, 
-    malware_info VARCHAR(64) NOT NULL
+    malware_info VARCHAR(512) NOT NULL
 );
 ```
 P.S. We can also add additional fields like updated_time, updated_by, inserted_time, inserted_by, ... to track the actions date time and author.

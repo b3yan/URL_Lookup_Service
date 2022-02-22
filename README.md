@@ -8,10 +8,10 @@ CREATE TABLE url_table(
     malware_info VARCHAR(512) NOT NULL
 );
 ```
-P.S. We can also add additional fields like updated_time, updated_by, inserted_time, inserted_by, ... to track the actions date time and author.
+P.S. We can also add additional fields like updated_time, updated_by, inserted_time, and inserted_by, ... to track the actions' date time and author.
 
 ## 2. Basic Requirements:
-**Python 3+ and pip**
+**Python 3.2.1 and pip**
 
 ## 3. Reproduce Steps:
 1. Clone project- `git clone https://github.com/b3yan/URL_Lookup_Service`

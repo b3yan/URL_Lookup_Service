@@ -1,6 +1,6 @@
 # **URL Lookup Service**
 
-## 1. DB Schema
+## 1. DB Schema:
 **MySQL server -> create table: url_table**
 ```
 CREATE TABLE url_table(
@@ -19,3 +19,6 @@ P.S. We can also add additional fields like updated_time, updated_by, inserted_t
 3. Install modules: `pip install -r install_modules.txt`
 4. Change password in application/db_connection.py to your own password.
 4. Run the application: `python run_application.py`
+
+## 4. Thought Exercise:
+Please refer to the Thought Exercise.pdf file.

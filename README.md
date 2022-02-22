@@ -10,10 +10,10 @@ CREATE TABLE url_table(
 ```
 P.S. We can also add additional fields like updated_time, updated_by, inserted_time, inserted_by, ... to track the actions date time and author.
 
-## Basic Requirements:
+## 2. Basic Requirements:
 **Python 3+ and pip**
 
-## Reproduce Steps:
+## 3. Reproduce Steps:
 1. Clone project- `git clone https://github.com/b3yan/URL_Lookup_Service`
 2. Go to folder: `cd URL_Lookup_Service`
 3. Install modules: `pip install -r install_modules.txt`

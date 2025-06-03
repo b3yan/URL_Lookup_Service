@@ -2,7 +2,7 @@ from app.db_actions import get, update, insert
 
 def test_get():
     get_value = get("https://en.wikipedia.org/wiki/Main_Page")
-    print(get_value) 123
+    print(get_value)
 
 def test_update():
     update(url = 'not_malware.com', malware_info = "not malware")

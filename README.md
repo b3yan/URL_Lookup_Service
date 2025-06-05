@@ -21,4 +21,4 @@ P.S. We can also add additional fields like updated_time, updated_by, inserted_t
 4. Run the application: `python run_application.py`
 
 ## 4. Thought Exercise:
-Please refer to the Thought Exercise.pdf file.
+Please refer to the Thought Exercise.pdf file. Thank you!

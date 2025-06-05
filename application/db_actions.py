@@ -25,4 +25,4 @@ def insert(url, malware_info):
     update(url, malware_info)
     db.commit()
     cursor.close()
-    return "Inserted successfully!"
+    return "Inserted successfully!" # test

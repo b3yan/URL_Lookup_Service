@@ -6,7 +6,7 @@ application = Flask(__name__)
 def get_url(hostname_and_port, original_path_and_query_string):
     malware_info = get(hostname_and_port)
     if not malware_info: malware_info = "not malware"
-    return malware_info
+    return malware_info # test
 
 @application.route('/urlinfo', methods = ['POST'])
 def save_url():

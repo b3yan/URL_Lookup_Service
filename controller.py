@@ -14,3 +14,4 @@ def save_url():
     malware_info = request.form['malware_info']
     return insert(url, malware_info)
     #test
+     #test

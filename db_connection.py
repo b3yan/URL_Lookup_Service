@@ -7,3 +7,5 @@ password = "YourPassword"
 
 
 db = MySQLdb.connect(sql_server_string, username, password)
+
+# test test
